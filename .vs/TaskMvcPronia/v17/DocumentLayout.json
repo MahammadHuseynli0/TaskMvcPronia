@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|solutionrelative:taskmvcpronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia\\views\\shop\\indexsingleproductvariable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|solutionrelative:taskmvcpronia\\views\\shop\\indexsingleproductvariable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|solutionrelative:taskmvcpronia\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia\\views\\shop\\indexshopdefault.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|solutionrelative:taskmvcpronia\\views\\shop\\indexshopdefault.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|solutionrelative:taskmvcpronia\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|solutionrelative:taskmvcpronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|solutionrelative:taskmvcpronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|solutionrelative:taskmvcpronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.business\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|solutionrelative:taskmvcpronia.business\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|solutionrelative:taskmvcpronia.business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.business\\services\\concretes\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|solutionrelative:taskmvcpronia.business\\services\\concretes\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.business\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|solutionrelative:taskmvcpronia.business\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.business\\services\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|solutionrelative:taskmvcpronia.business\\services\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.business\\services\\abstract\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|solutionrelative:taskmvcpronia.business\\services\\abstract\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.business\\taskmvcpronia.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{49139550-163B-4439-826A-B2EE505A1DCD}|TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj|solutionrelative:taskmvcpronia.business\\taskmvcpronia.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.data\\repositoryconcretes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|solutionrelative:taskmvcpronia.data\\repositoryconcretes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.core\\repositoryabstract\\igenrericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|solutionrelative:taskmvcpronia.core\\repositoryabstract\\igenrericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|solutionrelative:taskmvcpronia.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.data\\repositoryconcretes\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|solutionrelative:taskmvcpronia.data\\repositoryconcretes\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|solutionrelative:taskmvcpronia.data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.core\\repositoryabstract\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|solutionrelative:taskmvcpronia.core\\repositoryabstract\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.core\\repositoryabstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|solutionrelative:taskmvcpronia.core\\repositoryabstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.core\\repositoryabstract\\icateegoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|solutionrelative:taskmvcpronia.core\\repositoryabstract\\icateegoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|solutionrelative:taskmvcpronia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|solutionrelative:taskmvcpronia.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|solutionrelative:taskmvcpronia.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|solutionrelative:taskmvcpronia.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|solutionrelative:taskmvcpronia.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.data\\taskmvcpronia.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|solutionrelative:taskmvcpronia.data\\taskmvcpronia.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.core\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19182250-8F69-4846-891F-0CA41A1F7CCD}|TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj|solutionrelative:taskmvcpronia.core\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BD295BF-357F-4916-B682-2239D32861BE}|TaskMvcPronia\\TaskMvcPronia.csproj|solutionrelative:taskmvcpronia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|c:\\users\\user\\source\\repos\\taskmvcpronia\\taskmvcpronia.data\\migrations\\20240508235425_categoryproducttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B73957E-56E6-40B3-8E9B-CB4758E0E1F1}|TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj|solutionrelative:taskmvcpronia.data\\migrations\\20240508235425_categoryproducttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskMvcPronia.Business\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexSingleProductVariable.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Views\\Shop\\IndexSingleProductVariable.cshtml",
+              "RelativeDocumentMoniker": "TaskMvcPronia\\Views\\Shop\\IndexSingleProductVariable.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Views\\Shop\\IndexSingleProductVariable.cshtml",
+              "RelativeToolTip": "TaskMvcPronia\\Views\\Shop\\IndexSingleProductVariable.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEDAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T07:57:08.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndexShopDefault.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Views\\Shop\\IndexShopDefault.cshtml",
+              "RelativeDocumentMoniker": "TaskMvcPronia\\Views\\Shop\\IndexShopDefault.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Views\\Shop\\IndexShopDefault.cshtml",
+              "RelativeToolTip": "TaskMvcPronia\\Views\\Shop\\IndexShopDefault.cshtml",
+              "ViewState": "AQIAABQHAAAAAAAAAAAIwDMHAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T07:55:36.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskMvcPronia\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "TaskMvcPronia\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAKsHAAAAAAAAAAAIwMoHAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T07:54:00.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "TaskMvcPronia\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:49:24.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Services\\Concretes\\CategoryService.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Business\\Services\\Concretes\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Services\\Concretes\\CategoryService.cs",
+              "RelativeToolTip": "TaskMvcPronia.Business\\Services\\Concretes\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:46:00.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Services\\Abstract\\ITagService.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Business\\Services\\Abstract\\ITagService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Services\\Abstract\\ITagService.cs",
+              "RelativeToolTip": "TaskMvcPronia.Business\\Services\\Abstract\\ITagService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:45:59.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskMvcPronia.Business",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj",
+              "RelativeToolTip": "TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T07:45:59.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Program.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Program.cs",
+              "RelativeToolTip": "TaskMvcPronia\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:36:44.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "TaskMvcPronia.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:32:42.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TaskMvcPronia\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:25:00.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskMvcPronia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TaskMvcPronia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAIsCAAAAAAAAAAAAAI0JAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T22:46:22.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskMvcPronia\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskMvcPronia\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHsDAAAAAAAAAAAAAPoEAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T22:30:13.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Services\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Business\\Services\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Services\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "TaskMvcPronia.Business\\Services\\Abstract\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:46:00.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Services\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Business\\Services\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Services\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "TaskMvcPronia.Business\\Services\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:46:00.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Services\\Concretes\\TagService.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Business\\Services\\Concretes\\TagService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Services\\Concretes\\TagService.cs",
+              "RelativeToolTip": "TaskMvcPronia.Business\\Services\\Concretes\\TagService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:46:00.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Business\\Services\\Concretes\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeToolTip": "TaskMvcPronia.Business\\Services\\Concretes\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:46:00.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeToolTip": "TaskMvcPronia.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:30:38.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\RepositoryConcretes\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Data\\RepositoryConcretes\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\RepositoryConcretes\\CategoryRepository.cs",
+              "RelativeToolTip": "TaskMvcPronia.Data\\RepositoryConcretes\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:30:09.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\RepositoryConcretes\\TagRepository.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Data\\RepositoryConcretes\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\RepositoryConcretes\\TagRepository.cs",
+              "RelativeToolTip": "TaskMvcPronia.Data\\RepositoryConcretes\\TagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:29:46.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\RepositoryAbstract\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Core\\RepositoryAbstract\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\RepositoryAbstract\\IProductRepository.cs",
+              "RelativeToolTip": "TaskMvcPronia.Core\\RepositoryAbstract\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:18:25.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\RepositoryAbstract\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Core\\RepositoryAbstract\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\RepositoryAbstract\\ITagRepository.cs",
+              "RelativeToolTip": "TaskMvcPronia.Core\\RepositoryAbstract\\ITagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:17:43.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenrericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\RepositoryAbstract\\IGenrericRepository.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Core\\RepositoryAbstract\\IGenrericRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\RepositoryAbstract\\IGenrericRepository.cs",
+              "RelativeToolTip": "TaskMvcPronia.Core\\RepositoryAbstract\\IGenrericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:00:45.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICateegoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\RepositoryAbstract\\ICateegoryRepository.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Core\\RepositoryAbstract\\ICateegoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\RepositoryAbstract\\ICateegoryRepository.cs",
+              "RelativeToolTip": "TaskMvcPronia.Core\\RepositoryAbstract\\ICateegoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:25:46.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240508235425_CategoryProductTag.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\Migrations\\20240508235425_CategoryProductTag.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Data\\Migrations\\20240508235425_CategoryProductTag.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\Migrations\\20240508235425_CategoryProductTag.cs",
+              "RelativeToolTip": "TaskMvcPronia.Data\\Migrations\\20240508235425_CategoryProductTag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:54:25.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskMvcPronia\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\appsettings.json",
+              "RelativeToolTip": "TaskMvcPronia\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T23:44:00.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "TaskMvcPronia.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:22:29.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaskMvcPronia.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj",
+              "RelativeToolTip": "TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T23:18:48.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "TaskMvcPronia.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:58:59.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\Models\\Product.cs",
+              "RelativeToolTip": "TaskMvcPronia.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:58:38.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\Models\\Category.cs",
+              "RelativeToolTip": "TaskMvcPronia.Core\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:58:22.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Core\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\Models\\Tag.cs",
+              "RelativeToolTip": "TaskMvcPronia.Core\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:58:00.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "TaskMvcPronia.Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\Class1.cs",
+              "RelativeToolTip": "TaskMvcPronia.Business\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:53:29.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TaskMvcPronia\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TaskMvcPronia\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T22:27:22.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
