@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj": {}
+    "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj": {
+    "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj",
         "projectName": "TaskMvcPronia.Business",
-        "projectPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj"
+              "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj": {
+    "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj",
         "projectName": "TaskMvcPronia.Core",
-        "projectPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj": {
+    "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj",
         "projectName": "TaskMvcPronia.Data",
-        "projectPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Data\\TaskMvcPronia.Data.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Data\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,8 +158,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj"
+              "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj"
               }
             }
           }
@@ -214,14 +214,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj": {
+    "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj",
         "projectName": "TaskMvcPronia",
-        "projectPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -238,8 +238,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj"
+              "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj"
               }
             }
           }

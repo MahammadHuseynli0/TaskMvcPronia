@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cVjJ+Benfgjm/KKYFQ84saBx7UTZ/+CuJ7fnlBEpQOIdSKaXincMU8xn2X+S1BdIJ8D3ztbKz6q2oBac5VfC+A==",
+  "dgSpecHash": "dgzfhJNmZ0UEh6tMhfl+/sSteqF3elMxhW6JXriE+jupX9H3IqJH1pfnfYXLwIc80ZwpdZSjtYvnYLvWA6CW8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",

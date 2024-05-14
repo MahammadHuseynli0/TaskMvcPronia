@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tAnARBUz05XUA/gWP5+jmwddy4Zv48LeCe2EgcF9MMtkiqg8pBVAIcNII/SZoB2+2Ib74NJQttZRmWatzF+dvg==",
+  "dgSpecHash": "paKDlptPQbGOsus4OUoqzmkw3SWkT9cm6KS+U5weX3puHQdNZurdyIguKa0ajJxuS0JozkgOr2BokUw6BUa7og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Core\\TaskMvcPronia.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",

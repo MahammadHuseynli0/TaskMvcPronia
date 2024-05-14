@@ -2111,11 +2111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj",
       "projectName": "TaskMvcPronia",
-      "projectPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia\\TaskMvcPronia.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2132,8 +2132,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj"
+            "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\TaskMvcPronia\\TaskMvcPronia.Business\\TaskMvcPronia.Business.csproj"
             }
           }
         }
