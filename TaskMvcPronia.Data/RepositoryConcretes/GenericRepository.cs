@@ -9,8 +9,7 @@ using TaskMvcPronia.Data.DAL;
 
 namespace TaskMvcPronia.Data.RepositoryConcretes
 {
-    public class GenericRepository
-    {
+   
         public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity, new()
         {
             private AppDbContext _appDbContext;
@@ -53,5 +52,4 @@ namespace TaskMvcPronia.Data.RepositoryConcretes
                     _appDbContext.Set<T>().Where(predicate).ToList();
             }
         }
-    }
 }
